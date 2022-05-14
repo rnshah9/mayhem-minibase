@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-minibase
+target: elfinfo
+
+cmds:
+  - cmd: /repo/bin/elfinfo @@
