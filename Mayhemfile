@@ -3,3 +3,6 @@ target: elfinfo
 
 cmds:
   - cmd: /repo/bin/elfinfo @@
+  - cmd: /repo/bin/logcat
+    filepath: /repo/var/log/syslog
+  - cmd: /repo/bin/hexdump @@
