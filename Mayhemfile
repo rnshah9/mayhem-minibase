@@ -2,4 +2,4 @@ project: minibase
 target: hexdump
 
 cmds:
-  - cmd: /repo/bin/hexdump @@
+  - cmd: /hexdump @@
